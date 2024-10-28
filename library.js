@@ -1,2 +1,2 @@
-test submodule status 
+test submodule status
 \\
